@@ -16,7 +16,7 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 sudo -s
 ``` 
 ```
-git clone https://github.com/http-custom/udp-custom && cd udp-custom && chmod +x install.sh && ./install.sh
+git clone https://github.com/nyeinkokoaung404/udp-custom && cd udp-custom && chmod +x install.sh && ./install.sh
 ```
 
 
@@ -28,7 +28,7 @@ git clone https://github.com/http-custom/udp-custom && cd udp-custom && chmod +x
  * Optional port exclude separated by coma, ex. 53,5300
 
 ## telegram
- > [magnu](https://t.me/magnui)
+ > [4-0-4](https://t.me/nkka404)
 
 #
   > _made from pieces with ❤️_
